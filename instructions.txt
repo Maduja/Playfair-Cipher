@@ -1,0 +1,9 @@
+
+
+this is playfair cipher. we created this using, html,css,js,python and using flask.
+
+first open cmd
+then type -> pip install flask
+after type -> pip install gunicorn
+-> cd flask_project
+-> python app.py
